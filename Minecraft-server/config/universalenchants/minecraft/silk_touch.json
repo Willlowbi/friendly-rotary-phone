@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:digger"
+  ],
+  "incompatible": [
+    "minecraft:looting",
+    "smelting:burning",
+    "minecraft:fortune",
+    "minecraft:luck_of_the_sea",
+    "smelting:smelting"
+  ]
+}
